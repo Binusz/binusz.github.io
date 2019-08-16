@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: [Cleanzy UK çıktı mı?]
-description: [Cleanzy Profesyonel Android uygulamasın Play Store'da yayına çıktı mı?]
-show_downloads: ["false"]
-google_analytics: [UA-1390873-5]
+title: Cleanzy UK çıktı mı?
+description: Cleanzy Profesyonel Android uygulamasın Play Store'da yayına çıktı mı?
+show_downloads: false
+google_analytics: UA-1390873-5
