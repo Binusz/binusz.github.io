@@ -2,7 +2,10 @@ theme: jekyll-theme-minimal
 title: "Cleanzy UK çıktı mı?"
 description: "Cleanzy Profesyonel Android uygulamasın Play Store'da yayına çıktı mı?"
 show_downloads: false
-google_analytics: UA-1390873-5
+url: "http://www.uygulamaciktimi.com"
+
+# Google Analytics
+ga_track_id: 'UA-1390873-5'
 
 # Build settings
 markdown: kramdown
