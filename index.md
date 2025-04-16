@@ -5,6 +5,6 @@
 layout: page
 ---
 
-## Cleanzy Profesyonel Android uygulaması
+## Bilal Demirci 
 
-Sonunda :)  [Cleanzy](https://cleanzy.page.link/V9Hh).
+Sonunda :) 
